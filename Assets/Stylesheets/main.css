@@ -142,7 +142,7 @@ h1,h3,h4,h5,p{
   width: 30%;
 }
 .col-2-3{
-  width: 66%;
+  width: 60%;
 }
 .col-1-3,
 .col-2-3{
@@ -263,5 +263,7 @@ form{
 .btn-default:hover{
   background: #77a198;
 }
+
+
 
 
